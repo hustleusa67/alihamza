@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ali’s Dutch | Islamic E-Commerce Store</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f5f5f5;
+      text-align: center;
+    }
+    header {
+      background-color: #008080;
+      color: white;
+      padding: 20px;
+    }
+    h1 {
+      margin: 0;
+      font-size: 28px;
+    }
+    .tagline {
+      font-size: 16px;
+      margin-top: 5px;
+    }
+    .products {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      margin-top: 30px;
+      gap: 20px;
+      padding: 0 10px;
+    }
+    .card {
+      background: white;
+      width: 250px;
+      padding: 15px;
+      border-radius: 12px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      transition: 0.3s;
+    }
+    .card:hover {
+      transform: scale(1.05);
+    }
+    .card img {
+      width: 100%;
+      border-radius: 8px;
+    }
+    .card h3 {
+      margin: 10px 0 5px 0;
+      color: #008080;
+    }
+    .card p {
+      font-size: 14px;
+    }
+    .buy-btn {
+      background-color: #008080;
+      color: white;
+      border: none;
+      padding: 8px 15px;
+      border-radius: 6px;
+      cursor: pointer;
+      margin-top: 10px;
+    }
+    .buy-btn:hover {
+      background-color: #006666;
+    }
+    footer {
+      background-color: #008080;
+      color: white;
+      padding: 10px;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🕌 Ali’s Dutch Islamic Store</h1>
+    <p class="tagline">Islamic Caps | Modest Fashion | Lifestyle Accessories</p>
+  </header>
+
+  <section class="products">
+    <div class="card">
+      <img src="https://i.imgur.com/y3X1K8z.jpg" alt="Islamic Cap">
+      <h3>Islamic Cap</h3>
+      <p>Beautiful handmade topi for daily prayer.</p>
+      <button class="buy-btn">Buy Now</button>
+    </div>
+
+    <div class="card">
+      <img src="https://i.imgur.com/lxIXs9N.jpg" alt="Kurta">
+      <h3>Men’s Kurta</h3>
+      <p>Elegant and simple design for Jummah and Eid.</p>
+      <button class="buy-btn">Buy Now</button>
+    </div>
+
+    <div class="card">
+      <img src="https://i.imgur.com/V4Wn5XQ.jpg" alt="Tasbeeh">
+      <h3>Tasbeeh</h3>
+      <p>Premium wooden tasbeeh for zikr and prayer.</p>
+      <button class="buy-btn">Buy Now</button>
+    </div>
+  </section>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ali’s Dutch | Islamic E-Commerce Store</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f5f5f5;
+      text-align: center;
+    }
+    header {
+      background-color: #008080;
+      color: white;
+      padding: 20px;
+    }
+    h1 {
+      margin: 0;
+      font-size: 28px;
+    }
+    .tagline {
+      font-size: 16px;
+      margin-top: 5px;
+    }
+    .products {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      margin-top: 30px;
+      gap: 20px;
+      padding: 0 10px;
+    }
+    .card {
+      background: white;
+      width: 250px;
+      padding: 15px;
+      border-radius: 12px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      transition: 0.3s;
+    }
+    .card:hover {
+      transform: scale(1.05);
+    }
+    .card img {
+      width: 100%;
+      border-radius: 8px;
+    }
+    .card h3 {
+      margin: 10px 0 5px 0;
+      color: #008080;
+    }
+    .card p {
+      font-size: 14px;
+    }
+    .buy-btn {
+      background-color: #008080;
+      color: white;
+      border: none;
+      padding: 8px 15px;
+      border-radius: 6px;
+      cursor: pointer;
+      margin-top: 10px;
+    }
+    .buy-btn:hover {
+      background-color: #006666;
+    }
+    footer {
+      background-color: #008080;
+      color: white;
+      padding: 10px;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🕌 Ali’s Dutch Islamic Store</h1>
+    <p class="tagline">Islamic Caps | Modest Fashion | Lifestyle Accessories</p>
+  </header>
+
+  <section class="products">
+    <div class="card">
+      <img src="https://i.imgur.com/y3X1K8z.jpg" alt="Islamic Cap">
+      <h3>Islamic Cap</h3>
+      <p>Beautiful handmade topi for daily prayer.</p>
+      <button class="buy-btn">Buy Now</button>
+    </div>
+
+    <div class="card">
+      <img src="https://i.imgur.com/lxIXs9N.jpg" alt="Kurta">
+      <h3>Men’s Kurta</h3>
+      <p>Elegant and simple design for Jummah and Eid.</p>
+      <button class="buy-btn">Buy Now</button>
+    </div>
+
+    <div class="card">
+      <img src="https://i.imgur.com/V4Wn5XQ.jpg" alt="Tasbeeh">
+      <h3>Tasbeeh</h3>
+      <p>Premium wooden tasbeeh for zikr and prayer.</p>
+      <button class="buy-btn">Buy Now</button>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2025 Ali’s Dutch Studio | All Rights Reserved</p>
+  </footer>
+</body>
+</html>
+  <footer>
+    <p>© 2025 Ali’s Dutch Studio | All Rights Reserved</p>
+  </footer>
+</body>
+</html>
